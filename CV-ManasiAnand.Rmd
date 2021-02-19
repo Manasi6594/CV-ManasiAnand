@@ -13,6 +13,8 @@ h1, h2, h3 {text-align: center}
 
 ### Email: ma2337@cornell.edu
 
+<br>
+
 #### Education: 
 
 PhD in Natural Resources, Cornell University [2021-Present]{style="float:right"}
